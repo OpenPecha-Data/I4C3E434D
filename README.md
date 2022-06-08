@@ -1,10 +1,10 @@
-|P006622|མགོ་ལོག་གི་ལོ་ངོ་བཞི་བཅུ། ༡༩༥༤་ལོ་ནས ༡༩༩༤་ལོའི་བར། 
+|I4C3E434D|མགོ་ལོག་གི་ལོ་ངོ་བཞི་བཅུ། ༡༩༥༤་ལོ་ནས ༡༩༩༤་ལོའི་བར། 
 | --- | --- 
 |Alternative Title |
 |Author | 
 |BDRC ID | W20914
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P006622)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P006622/releases/download/v2/golok_gi_lo_ngo_shyi_chu_lona__plain_P006622.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P006622/releases/download/v2/golok_gi_lo_ngo_shyi_chu_lona__pages_P006622.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I4C3E434D)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I4C3E434D/releases/download/v2/golok_gi_lo_ngo_shyi_chu_lona__plain_I4C3E434D.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I4C3E434D/releases/download/v2/golok_gi_lo_ngo_shyi_chu_lona__pages_I4C3E434D.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W20914)
